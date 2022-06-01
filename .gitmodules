@@ -1,0 +1,3 @@
+[submodule "gatsby-gitbook-starter"]
+	path = gatsby-gitbook-starter
+	url = https://github.com/hasura/gatsby-gitbook-starter.git
